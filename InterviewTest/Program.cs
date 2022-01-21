@@ -18,6 +18,7 @@ namespace InterviewTest
             
             Console.WriteLine("Here is your result:");
             Console.WriteLine(string.Join(", ", result));
+            Console.ReadKey();
         }
 
         /// <summary>
